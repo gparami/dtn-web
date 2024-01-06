@@ -4,10 +4,8 @@ subtitle: your premier mortgage broker
 image: img/towfiqu-barbhuiya-05xccftozn4-unsplash.jpg
 blurb:
   heading: Why Indika?
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: Expert Guidance, Personalized Solutions, Extensive Network, Transparent
+    Communication, Efficiency and Timeliness
 intro:
   heading: What BRX offer
   text: Welcome to BRX, your premier destination for comprehensive and
