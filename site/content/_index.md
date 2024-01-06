@@ -2,7 +2,7 @@
 title: Great mortgages with Indika Ranpatabendi
 subtitle: Your premier destination for comprehensive and personalized mortgage
   broker services.
-image: /img/home-jumbotron.jpg
+image: img/towfiqu-barbhuiya-05xccftozn4-unsplash.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
