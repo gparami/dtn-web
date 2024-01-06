@@ -1,19 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: Ottawa, Canada
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Saturday: 9AM – 5PM"
 ---
+<h3 class="f4 b lh-title mb2">Ready to take the first step towards homeownership or explore mortgage solutions tailored to your needs?</h3>
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Contact us today at [mortgages@dtnsolutions.ca](mailto:mortgages@dtnsolutions.ca) to schedule a consultation with one of our expert mortgage agents.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+At BRX, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
