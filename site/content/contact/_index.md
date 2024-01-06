@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/logo.svg
+logo: https://durable.sfo3.cdn.digitaloceanspaces.com/blocks/23WmDqxjjppSK0nMgQCcaF2bAfzFls1MPGzuIpCzKMHlVsdfqP0WMl4WkcWfqyL8.png
 contact_entries:
   - heading: Location
     text: Ottawa, Canada
