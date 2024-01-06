@@ -14,12 +14,12 @@ intro:
     terms, and ensuring a smooth path to homeownership or financial
     optimization.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: img/mstile-70x70.png
     text: "Expert Guidance: Our experienced mortgage agents are here to guide you
       through the entire mortgage process. From understanding your financial
       situation to exploring the best mortgage options, we're with you every
       step of the way."
-  - image: /img/illustrations-coffee-gear.svg
+  - image: img/mstile-70x70.png
     text: "Personalized Solutions: We recognize that every client is unique. Our
       team takes the time to understand your individual needs and financial
       goals, tailoring our services to ensure you get a mortgage that aligns
@@ -28,12 +28,17 @@ products:
       wide range of mortgage products. This allows us to offer competitive rates
       and terms, providing you with options that suit your budget and
       preferences."
-    image: img/illustrations-tutorials.svg
+    image: img/mstile-70x70.png
   - text: "Transparent Communication: We believe in transparent and open
       communication. Our team ensures you are well-informed at every stage of
       the mortgage process, making the journey as smooth and stress-free as
       possible."
-    image: img/illustrations-meeting-space.svg
+    image: img/mstile-70x70.png
+  - image: img/mstile-70x70.png
+    text: "Efficiency and Timeliness: We understand the importance of time,
+      especially when it comes to securing a mortgage. Our efficient processes
+      and timely responses ensure that your mortgage application progresses
+      seamlessly."
 values:
   heading: "Get Started Today:"
   text: >-
