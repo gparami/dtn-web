@@ -1,36 +1,48 @@
 ---
 title: Great mortgages with Indika Ranpatabendi
-subtitle: Your premier destination for comprehensive and personalized mortgage
-  broker services.
+subtitle: your premier mortgage broker
 image: img/towfiqu-barbhuiya-05xccftozn4-unsplash.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why Indika?
   text: Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: What BRX offer
+  text: Welcome to BRX, your premier destination for comprehensive and
+    personalized mortgage broker services. As your dedicated mortgage experts,
+    we are committed to simplifying the mortgage process, securing favourable
+    terms, and ensuring a smooth path to homeownership or financial
+    optimization.
 products:
   - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: "Expert Guidance: Our experienced mortgage agents are here to guide you
+      through the entire mortgage process. From understanding your financial
+      situation to exploring the best mortgage options, we're with you every
+      step of the way."
   - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: "Personalized Solutions: We recognize that every client is unique. Our
+      team takes the time to understand your individual needs and financial
+      goals, tailoring our services to ensure you get a mortgage that aligns
+      perfectly with your requirements."
+  - text: "Extensive Network: With a vast network of lenders, we have access to a
+      wide range of mortgage products. This allows us to offer competitive rates
+      and terms, providing you with options that suit your budget and
+      preferences."
+    image: img/illustrations-tutorials.svg
+  - text: "Transparent Communication: We believe in transparent and open
+      communication. Our team ensures you are well-informed at every stage of
+      the mortgage process, making the journey as smooth and stress-free as
+      possible."
+    image: img/illustrations-meeting-space.svg
 values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: "Get Started Today:"
+  text: >-
+    Ready to take the first step towards homeownership or explore mortgage
+    solutions tailored to your needs? Contact us today at
+    mortgages@dtnsolutions.ca to schedule a consultation with one of our expert
+    mortgage agents.
+
+    At BRX, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
 ---
