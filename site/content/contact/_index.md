@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: https://durable.sfo3.cdn.digitaloceanspaces.com/blocks/23WmDqxjjppSK0nMgQCcaF2bAfzFls1MPGzuIpCzKMHlVsdfqP0WMl4WkcWfqyL8.png
+logo: img/towfiqu-barbhuiya-05xccftozn4-unsplash.jpg
 contact_entries:
   - heading: Location
     text: Ottawa, Canada
@@ -11,4 +11,4 @@ contact_entries:
 
 Contact us today at [mortgages@dtnsolutions.ca](mailto:mortgages@dtnsolutions.ca) to schedule a consultation with one of our expert mortgage agents.
 
-At BRX, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
+At Mortgage Alliance, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
