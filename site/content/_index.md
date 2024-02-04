@@ -7,11 +7,11 @@ blurb:
   text: Expert Guidance, Personalized Solutions, Extensive Network, Transparent
     Communication, Efficiency and Timeliness
 intro:
-  heading: What BRX offer
-  text: Welcome to BRX, your premier destination for comprehensive and
-    personalized mortgage broker services. As your dedicated mortgage experts,
-    we are committed to simplifying the mortgage process, securing favourable
-    terms, and ensuring a smooth path to homeownership or financial
+  heading: What Indika offer
+  text: Welcome to Mortgage Alliance, your premier destination for comprehensive
+    and personalized mortgage broker services. As your dedicated mortgage
+    experts, we are committed to simplifying the mortgage process, securing
+    favourable terms, and ensuring a smooth path to homeownership or financial
     optimization.
 products:
   - image: img/mstile-70x70.png
@@ -47,5 +47,5 @@ values:
     mortgages@dtnsolutions.ca to schedule a consultation with one of our expert
     mortgage agents.
 
-    At BRX, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
+    At Mortgage Alliance, we are committed to turning your homeownership dreams into reality. Let's embark on this journey together!
 ---
